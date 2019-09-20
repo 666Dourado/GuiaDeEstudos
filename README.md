@@ -31,6 +31,6 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Nuvem
  
-* Podcast
+* [Podcast](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Podcast/Podcast.md)
 
 * [Programação](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Programa%C3%A7%C3%A3o/Programa%C3%A7%C3%A3o.md)
