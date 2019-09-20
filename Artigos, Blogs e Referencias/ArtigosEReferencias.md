@@ -52,6 +52,10 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Primeiros passos em Ciencia de Dados P.4](https://www.linkedin.com/feed/update/urn:li:activity:6550141249892954112/)
 
+## MongoDB
+
+* [Conectando o Robo 3T a uma instância MongoDB](https://www.linkedin.com/pulse/conectando-o-robo-3t-uma-inst%25C3%25A2ncia-mongodb-marcelo-alexandre/?trackingId=%2BN3BVdLkS9gJBWtbtHKV7A%3D%3D)
+
 
 # Blogs
 
