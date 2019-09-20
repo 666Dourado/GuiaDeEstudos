@@ -28,4 +28,6 @@ Guia de Cursos Gratuitos:
 
 
 ## Plataformas de Ensino
-[Hackerrank](https://www.hackerrank.com/dashboard)
+* [Hackerrank](https://www.hackerrank.com/dashboard)
+
+* [Cognitive Class IBM](https://cognitiveclass.ai/courses)
