@@ -25,6 +25,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Ajuste e Interpretação de Regressão Linear com R](https://medium.com/data-hackers/tutorial-ajuste-e-interpretação-de-regressão-linear-com-r-5b23c4ddb72)
 
+* [Classificação dos passageiros no acidente usando Random Forest](https://rsilvio.shinyapps.io/Titanic/)
+
 ## SSIS
 
 * [Transferência de Dados com Origens Dinâmicas com SSIS](https://www.youtube.com/watch?v=11YIITDywRM)
