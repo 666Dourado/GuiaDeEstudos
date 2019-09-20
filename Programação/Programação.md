@@ -23,6 +23,8 @@ Guia de Cursos Gratuitos:
 
 * [Livros de R](https://producaoanimalcomr.wordpress.com/2015/12/15/livros-r-gratuitos-para-downloads/)
 
+* [Livro - Ciencia de Dados com R](https://cdr.ibpad.com.br/)
+
 
 
 ## Plataformas de Ensino
