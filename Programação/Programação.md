@@ -33,3 +33,5 @@ Guia de Cursos Gratuitos:
 * [Cognitive Class IBM](https://cognitiveclass.ai/courses)
 
 * [Codenation](https://www.codenation.dev/)
+
+* [Jornada do Dev](https://jornadadodev.com.br/cursos)
