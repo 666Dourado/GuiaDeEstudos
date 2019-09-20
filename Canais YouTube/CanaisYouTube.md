@@ -8,3 +8,5 @@ Guia de Canais do You Tube com conteudo relevante
 * [Zurubabel](https://www.youtube.com/user/Zurubabel/playlists) Canal de tudo quanto é curso
 
 * [Danilo Aparecido - Torne-se um programador](https://www.youtube.com/user/Didox59/playlists)
+
+* [Curso em Video](https://www.youtube.com/user/cursosemvideo/playlists)
