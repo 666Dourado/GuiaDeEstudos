@@ -13,7 +13,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * [Cursos Udemy Gratuitos](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Portugu%C3%AAs)
 
-* Dados Abertos
+* [Dados Abertos](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Dados%20Abertos/DadosAbertos.md)
 
 * [DevOps](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/DevOps/DevOps.md)
 
