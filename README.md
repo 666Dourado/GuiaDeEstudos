@@ -19,15 +19,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Engenharia de Dados
 
-* Matemática
-
-  * GAAL
-  
-  * Calculo
-  
-  * Estatistica
-  
-  * 2º Grau
+* [Matemática](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Matem%C3%A1tica/Matematica.md)
 
 * Nuvem
  
