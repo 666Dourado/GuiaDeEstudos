@@ -23,6 +23,8 @@ Guia de Cursos Gratuitos:
 
 * [Curso Django](https://www.youtube.com/watch?v=UIvnNCQnejw&list=PLHWfNMxB2F4HdKbo8zdgXyxVDOxH429Ko)
 
+* [Aprenda Computação com Python’s documentation](https://aprendendo-computacao-com-python.readthedocs.io/en/latest/index.html)
+
 ## C#
 
 * [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) Apostila da Caelum sobre C# Orientado a Objetos
