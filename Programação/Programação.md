@@ -15,3 +15,8 @@ Guia de Cursos Gratuitos:
 ## C#
 
 * [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) Apostila da Caelum sobre C# Orientado a Objetos
+
+
+## R
+ 
+* [Livro R (Em Ingles)](https://r4ds.had.co.nz/)
