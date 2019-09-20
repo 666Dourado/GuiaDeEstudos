@@ -53,3 +53,5 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Pyimagesearch](https://www.pyimagesearch.com/) Blog do Adrian Rosebrock sobre visão computacional
 
+* [Kdnuggets](https://www.kdnuggets.com/)
+
