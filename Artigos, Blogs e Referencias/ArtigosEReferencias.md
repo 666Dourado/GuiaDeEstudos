@@ -43,7 +43,9 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Git Hub - Leticia Portela](https://github.com/leportella/datascience-pizza)
 
-* [ABRACD](https://abracd.org/)
+* [ABRACD](https://abracd.org/) Associação Brasileira de Ciencia de Dados
 
-* [Curso R](https://www.curso-r.com/)
+* [Curso R](https://www.curso-r.com/) Blog da galera do Curso R sobre R
+
+* [Pyimagesearch](https://www.pyimagesearch.com/) Blog do Adrian Rosebrock sobre visão computacional
 
