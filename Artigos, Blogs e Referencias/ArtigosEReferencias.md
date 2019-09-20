@@ -27,6 +27,9 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Transferência de Dados com Origens Dinâmicas com SSIS](https://www.youtube.com/watch?v=11YIITDywRM)
 
+## Ciencia de Dados
+* [Machine Learning — Regressão RandomForest para prever nota de Matemática do Enem 2016](https://medium.com/ensina-ai/machine-learning-randomforest-para-prever-nota-de-matem%C3%A1tica-do-enem-2016-8893b73882f4)
+
 
 
 # Blogs
