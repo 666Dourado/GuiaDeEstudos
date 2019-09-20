@@ -20,6 +20,8 @@ PROCESSAMENTO DE IMAGEM E VISÃO COMPUTACIONAL](http://secitec.luzerna.ifc.edu.b
 Computacional com
 Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV.pdf)
 
+* [License Plate Recognition Brazil](https://www.dobitaobyte.com.br/lpr-license-plate-recognition-brazil-parte-1/)
+
 ## R
 * [Azure Machine Learning com R - Leandro Karpinski](https://www.linkedin.com/pulse/colocando-o-r-para-trabalhar-azure-machine-learning-e-karpinski/)
 
@@ -44,6 +46,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Primeiros passos em Ciencia de Dados P.3](https://www.linkedin.com/feed/update/urn:li:activity:6535125119797350401/)
 
+* [Primeiros passos em Ciencia de Dados P.4](https://www.linkedin.com/feed/update/urn:li:activity:6550141249892954112/)
+
 
 # Blogs
 
@@ -58,3 +62,7 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 * [Kdnuggets](https://www.kdnuggets.com/)
 
 * [Renato Groffe](https://medium.com/@renato.groffe) Medium do Renato Groffe o cara é monstro
+
+* [ML Course](https://mlcourse.ai/)
+
+* [OpenDataScience](https://opendatascience.com/)
