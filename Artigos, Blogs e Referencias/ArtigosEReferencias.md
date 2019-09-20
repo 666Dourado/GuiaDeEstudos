@@ -32,6 +32,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Random Forest in Python (Em Ingles)](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 
+* [Seu primeiro Projeto de Machine Learning em Python](https://pessoalex.wordpress.com/2019/04/09/seu-primeiro-projeto-de-machine-learning-em-python-passo-a-passo/)
+
 
 # Blogs
 
