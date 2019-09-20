@@ -19,3 +19,8 @@ Guia de artigos e referencias que acho que são uteis para referencias futuras.
 * [Transferência de Dados com Origens Dinâmicas com SSIS](https://www.youtube.com/watch?v=11YIITDywRM)
 
 
+
+# Blogs
+
+* [Git Hub - Leticia Portela](https://github.com/leportella/datascience-pizza)
+
