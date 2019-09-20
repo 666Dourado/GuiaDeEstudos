@@ -28,6 +28,9 @@ Guia de Cursos Gratuitos:
 * [Livro - Ciencia de Dados com R](https://cdr.ibpad.com.br/)
 
 
+## Node.js
+
+* [NodeJS, GraphQL e Web Scraping. Construindo uma API do Zero](https://medium.com/trainingcenter/tibia-api-parte2-fb86cbd531ab)
 
 ## Plataformas de Ensino
 * [Hackerrank](https://www.hackerrank.com/dashboard)
