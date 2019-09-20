@@ -15,6 +15,8 @@ Guia de Estudos sobre Ciencia de Dados
   
   * [Mineirando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q/videos)
   
-  * [Inteligencia Artificial Fundamentos](https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos)
+  * [Inteligencia Artificial Fundamentos](https://www.datascienceacademy.com.br/course?courseid=inteligencia-artificial-fundamentos) Curso Gratuito DSA
+  
+  * [Introdução a Ciencia de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) Curso Gratuito DSA
   
   
