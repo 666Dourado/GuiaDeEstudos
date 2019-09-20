@@ -7,7 +7,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * [Banco de Dados](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Banco%20de%20Dados/BancoDeDados.md)
 
-* Canais YouTube
+* [Canais YouTube](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Canais%20YouTube/CanaisYouTube.md)
 
 * [Ciencia de Dados](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Ciencia%20de%20Dados/CienciaDeDados.md)
 
