@@ -34,7 +34,9 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Seu primeiro Projeto de Machine Learning em Python](https://pessoalex.wordpress.com/2019/04/09/seu-primeiro-projeto-de-machine-learning-em-python-passo-a-passo/)
 
-* [Primeiros passos em Ciencia de Dados](https://www.linkedin.com/feed/update/urn:li:activity:6526937901106753536/)
+* [Primeiros passos em Ciencia de Dados P.1](https://www.linkedin.com/feed/update/urn:li:activity:6526937901106753536/)
+
+* [Primeiros passos em Ciencia de Dados P.2](https://www.linkedin.com/feed/update/urn:li:activity:6527304767620861952/)
 
 
 # Blogs
@@ -42,4 +44,6 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 * [Git Hub - Leticia Portela](https://github.com/leportella/datascience-pizza)
 
 * [ABRACD](https://abracd.org/)
+
+* [Curso R](https://www.curso-r.com/)
 
