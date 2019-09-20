@@ -14,3 +14,9 @@ Guia de Estudos de Matemática
 ## Calculo
 
 * [Curso Calculo I - Felipe Polo](https://www.youtube.com/channel/UCL1thPXRUyq7DNnBiL5WNnQ/playlists)
+
+## Gaal
+
+* [Introdução de Álgebra Linear para Data Science](https://medium.com/data-hackers/um-pouco-de-%C3%A1lgebra-linear-para-data-science-305ad27cf7c)
+
+* [Um Curso de Geometria e Algebra Linear](http://midia.cmais.com.br/assets/file/original/d6462384c6491d7538a1dd63a0086270903b9ad4.pdf)
