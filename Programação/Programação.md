@@ -22,3 +22,8 @@ Guia de Cursos Gratuitos:
 * [Livro R (Em Ingles)](https://r4ds.had.co.nz/)
 
 * [Livros de R](https://producaoanimalcomr.wordpress.com/2015/12/15/livros-r-gratuitos-para-downloads/)
+
+
+
+## Plataformas de Ensino
+[Hackerrank](https://www.hackerrank.com/dashboard)
