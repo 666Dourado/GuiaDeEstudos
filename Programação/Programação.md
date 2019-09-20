@@ -55,3 +55,7 @@ Guia de Cursos Gratuitos:
 * [Packtpub](https://www.packtpub.com/)
 
 * [ClaoudML)(https://www.claoudml.com)
+
+## Plataformas Diversas
+
+* [Mailjet - Envio de Email](https://www.mailjet.com/)
