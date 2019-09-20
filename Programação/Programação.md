@@ -32,6 +32,8 @@ Guia de Cursos Gratuitos:
 
 * [NodeJS, GraphQL e Web Scraping. Construindo uma API do Zero](https://medium.com/trainingcenter/tibia-api-parte2-fb86cbd531ab)
 
+* [Web Scraping com Node.js e Cheerio](https://imasters.com.br/desenvolvimento/web-scraping-com-node-js-e-cheerio)
+
 ## Plataformas de Ensino
 * [Hackerrank](https://www.hackerrank.com/dashboard)
 
