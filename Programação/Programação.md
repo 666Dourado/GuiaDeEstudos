@@ -17,7 +17,7 @@ Guia de Cursos Gratuitos:
 
 * [Python Fundamentos para Analise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 
-* [How To Scrape Web Pages with Beautiful Soup and Python 3](https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3)
+
 
 ## C#
 
