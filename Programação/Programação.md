@@ -17,6 +17,7 @@ Guia de Cursos Gratuitos:
 
 * [Python Fundamentos para Analise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 
+* [Python Para Desenvolvedores](https://edisciplinas.usp.br/pluginfile.php/3252265/mod_resource/content/1/b_Borges_Python_para_desenvolvedores_2ed.pdf)
 
 
 ## C#
