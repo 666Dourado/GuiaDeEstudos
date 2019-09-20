@@ -15,7 +15,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Dados Abertos
 
-* DevOps
+* [DevOps](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/DevOps/DevOps.md)
 
 * Engenharia de Dados
 
