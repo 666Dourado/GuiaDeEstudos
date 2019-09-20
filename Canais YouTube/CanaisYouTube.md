@@ -10,3 +10,9 @@ Guia de Canais do You Tube com conteudo relevante
 * [Danilo Aparecido - Torne-se um programador](https://www.youtube.com/user/Didox59/playlists)
 
 * [Curso em Video](https://www.youtube.com/user/cursosemvideo/playlists)
+
+* [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
+
+* [Karine Lago](https://www.youtube.com/channel/UCsx_ZsgsX6BIFueejCDBLkg)
+
+* [Planilheiros](https://www.youtube.com/channel/UCusu-y_cy_0fXxOwCTmELqw/videos)
