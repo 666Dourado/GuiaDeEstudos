@@ -33,6 +33,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Classificação dos passageiros no acidente usando Random Forest](https://rsilvio.shinyapps.io/Titanic/)
 
+* [Graficos em R com Esquisse](https://www.linkedin.com/posts/jo%C3%A3o-wedson-ferreira-b3032759_r-analisedados-esquisse-ugcPost-6567115779949637632-Qle8/)
+
 ## SSIS
 
 * [Transferência de Dados com Origens Dinâmicas com SSIS](https://www.youtube.com/watch?v=11YIITDywRM)
