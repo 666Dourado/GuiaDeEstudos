@@ -19,4 +19,4 @@ Guia de Estudos sobre Ciencia de Dados
   
   * [Introdução a Ciencia de Dados](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) Curso Gratuito DSA
   
-  
+  * [Lições de Machine Learning](https://www.overleaf.com/read/ndxqdffzfwdb)
