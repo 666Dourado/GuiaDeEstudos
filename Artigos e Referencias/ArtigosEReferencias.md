@@ -5,5 +5,5 @@ Guia de artigos e referencias que acho que são uteis para referencias futuras.
 
 * [Web Scraping filmes IMDB Denzel Washington](https://www.linkedin.com/pulse/fazendo-web-scraping-com-dados-do-imdb-filmes-denzel-m-r-ribeiro/)
 
-* 
+* [Python com Power BI](https://medium.com/@fernando.gama/integrando-e-explorando-a-linguagem-python-no-power-bi-6bd8ba0e60ed)
 
