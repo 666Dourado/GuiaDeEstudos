@@ -55,3 +55,4 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Kdnuggets](https://www.kdnuggets.com/)
 
+* [Renato Groffe](https://medium.com/@renato.groffe) Medium do Renato Groffe o cara é monstro
