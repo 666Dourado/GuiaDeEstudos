@@ -24,3 +24,5 @@ Guia de artigos e referencias que acho que são uteis para referencias futuras.
 
 * [Git Hub - Leticia Portela](https://github.com/leportella/datascience-pizza)
 
+* [ABRACD](https://abracd.org/)
+
