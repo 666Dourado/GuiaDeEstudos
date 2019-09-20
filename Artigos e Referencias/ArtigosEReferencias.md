@@ -9,6 +9,8 @@ Guia de artigos e referencias que acho que são uteis para referencias futuras.
 
 * [Desafio Titanic - Machine Laearning com Python](http://mundoia.com.br/tutorial/conheca-o-kaggle-e-participe-da-sua-primeira-competicao-de-machine-learning/)
 
+* [Como Construir um Dataframe a Partir de um Dicionario](https://dicasdepython.com.br/pandas-como-construir-um-dataframe-a-partir-de-um-dicionario/)
+
 ## R
 * [Azure Machine Learning com R - Leandro Karpinski](https://www.linkedin.com/pulse/colocando-o-r-para-trabalhar-azure-machine-learning-e-karpinski/)
 
