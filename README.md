@@ -11,7 +11,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Ciencia de Dados
 
-* Cursos Udemy
+* [Cursos Udemy Gratuitos](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Portugu%C3%AAs)
 
 * Dados Abertos
 
