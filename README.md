@@ -9,7 +9,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Canais YouTube
 
-* Ciencia de Dados
+* [Ciencia de Dados](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Ciencia%20de%20Dados/CienciaDeDados.md)
 
 * [Cursos Udemy Gratuitos](https://github.com/ProgramacaoPratica/CursosUdemy/tree/master/Cursos%20em%20Portugu%C3%AAs)
 
