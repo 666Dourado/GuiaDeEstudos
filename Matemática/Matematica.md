@@ -7,7 +7,7 @@ Guia de Estudos de Matemática
 
 * [Curso Estatistica e Probabilidade - Learncafe](https://www.learncafe.com/cursos/curso-de-estatistica-e-probabilidade---escolha-o-video-pelo-assunto-que-esta-abaixo:-4)
 
-* []()
+* [Curso Estatistica - Escola Virtual](https://www.escolavirtual.gov.br/curso/96)
 
 ## Calculo
 
