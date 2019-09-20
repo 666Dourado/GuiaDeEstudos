@@ -13,6 +13,8 @@ Guia de Cursos Gratuitos:
 
 * [Livro - Python Data Science Handbook (Em Ingles)](https://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook)
 
+* [Livro - Python for Data Analysis (Em Ingles)](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
+
 
 ## C#
 
