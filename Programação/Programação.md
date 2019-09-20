@@ -48,3 +48,5 @@ Guia de Cursos Gratuitos:
 * [4Linux](https://www.4linux.com.br/cursos)
 
 * [Linux Academy](https://linuxacademy.com/)
+
+* [Packtpub](https://www.packtpub.com/)
