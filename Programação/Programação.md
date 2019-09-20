@@ -5,7 +5,6 @@ Guia de Cursos Gratuitos:
   
 * [Introdução à Ciência da Computação com Python Parte 1 - Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) Curso introdutorio de Python da USP
 
-* Artigos e Referencias
 * [Introdução à Ciência da Computação com Python Parte 2 - Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) Curso introdutorio de Python da USP
 
 
