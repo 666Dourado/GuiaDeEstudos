@@ -51,3 +51,5 @@ Guia de Cursos Gratuitos:
 * [Linux Academy](https://linuxacademy.com/)
 
 * [Packtpub](https://www.packtpub.com/)
+
+* [ClaoudML)(https://www.claoudml.com)
