@@ -19,6 +19,7 @@ Guia de Cursos Gratuitos:
 
 * [Python Para Desenvolvedores](https://edisciplinas.usp.br/pluginfile.php/3252265/mod_resource/content/1/b_Borges_Python_para_desenvolvedores_2ed.pdf)
 
+* [Exercicios Python](https://wiki.python.org.br/ListaDeExercicios)
 
 ## C#
 
