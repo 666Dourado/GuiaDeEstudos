@@ -66,3 +66,5 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 * [ML Course](https://mlcourse.ai/)
 
 * [OpenDataScience](https://opendatascience.com/)
+
+* [Jessica Temporal](https://jtemporal.com/)
