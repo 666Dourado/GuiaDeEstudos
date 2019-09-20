@@ -15,6 +15,7 @@ Guia de Cursos Gratuitos:
 
 * [Livro - Python for Data Analysis (Em Ingles)](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
 
+* [Python Fundamentos para Analise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 
 ## C#
 
