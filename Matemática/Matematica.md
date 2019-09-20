@@ -9,6 +9,8 @@ Guia de Estudos de Matemática
 
 * [Curso Estatistica - Escola Virtual](https://www.escolavirtual.gov.br/curso/96)
 
+* [StatiR](https://www.youtube.com/channel/UC_Q8AOHINJExlLP7lchUSpA/playlists)
+
 ## Calculo
 
 * [Curso Calculo I - Felipe Polo](https://www.youtube.com/channel/UCL1thPXRUyq7DNnBiL5WNnQ/playlists)
