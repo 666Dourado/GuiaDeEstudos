@@ -24,6 +24,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Tutorial: Web Scraping and BeautifulSoup](https://www.dataquest.io/blog/web-scraping-beautifulsoup/)
 
+* [How To Scrape Web Pages with Beautiful Soup and Python 3](https://www.digitalocean.com/community/tutorials/how-to-scrape-web-pages-with-beautiful-soup-and-python-3)
+
 ## R
 * [Azure Machine Learning com R - Leandro Karpinski](https://www.linkedin.com/pulse/colocando-o-r-para-trabalhar-azure-machine-learning-e-karpinski/)
 
