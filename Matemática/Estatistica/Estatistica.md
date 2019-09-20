@@ -1,2 +1,0 @@
-# GuiaDeEstudos
-Guia de Estudos
