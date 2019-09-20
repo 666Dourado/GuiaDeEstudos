@@ -11,6 +11,8 @@ Guia de Cursos Gratuitos:
 
 * [Python e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-python-orientacao-objetos/) Apostila da Caelum sobre Python Orientação a Objetos
 
+* [Livro - Python Data Science Handbook (Em Ingles)](https://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook)
+
 
 ## C#
 
