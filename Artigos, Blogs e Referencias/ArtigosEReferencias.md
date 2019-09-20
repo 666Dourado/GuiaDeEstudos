@@ -56,6 +56,9 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Conectando o Robo 3T a uma instância MongoDB](https://www.linkedin.com/pulse/conectando-o-robo-3t-uma-inst%25C3%25A2ncia-mongodb-marcelo-alexandre/?trackingId=%2BN3BVdLkS9gJBWtbtHKV7A%3D%3D)
 
+## Power BI
+* [Power Bi Criando Alertas](http://www.bidoconceitoapratica.com.br/2019/08/05/power-bi-criando-alertas-parte-i/)
+
 
 # Blogs
 
