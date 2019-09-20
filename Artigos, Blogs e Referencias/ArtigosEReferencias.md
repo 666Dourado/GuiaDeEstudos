@@ -23,6 +23,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 ## R
 * [Azure Machine Learning com R - Leandro Karpinski](https://www.linkedin.com/pulse/colocando-o-r-para-trabalhar-azure-machine-learning-e-karpinski/)
 
+* [Ajuste e Interpretação de Regressão Linear com R](https://medium.com/data-hackers/tutorial-ajuste-e-interpretação-de-regressão-linear-com-r-5b23c4ddb72)
+
 ## SSIS
 
 * [Transferência de Dados com Origens Dinâmicas com SSIS](https://www.youtube.com/watch?v=11YIITDywRM)
@@ -37,6 +39,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 * [Primeiros passos em Ciencia de Dados P.1](https://www.linkedin.com/feed/update/urn:li:activity:6526937901106753536/)
 
 * [Primeiros passos em Ciencia de Dados P.2](https://www.linkedin.com/feed/update/urn:li:activity:6527304767620861952/)
+
+* [Primeiros passos em Ciencia de Dados P.3](https://www.linkedin.com/feed/update/urn:li:activity:6535125119797350401/)
 
 
 # Blogs
