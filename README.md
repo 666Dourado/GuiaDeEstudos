@@ -5,4 +5,32 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Artigos e Referencias
 
+* Banco de Dados
 
+* Canais YouTube
+
+* Ciencia de Dados
+
+* Cursos Udemy
+
+* Dados Abertos
+
+* DevOps
+
+* Engenharia de Dados
+
+* Matemática
+
+  * GAAL
+  
+  * Calculo
+  
+  * Estatistica
+  
+  * 2º Grau
+
+* Nuvem
+ 
+* Podcast
+
+* Programação
