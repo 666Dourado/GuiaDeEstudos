@@ -3,9 +3,9 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * [Analises](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Analises/Analises.md)
 
-* [Artigos e Referencias](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Artigos%20e%20Referencias/ArtigosEReferencias.md)
+* [Artigos, Blogs e Referencias](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Artigos%2C%20Blogs%20e%20Referencias/ArtigosEReferencias.md)
 
-* [Banco de Dados] (https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Banco%20de%20Dados/BancoDeDados.md)
+* [Banco de Dados](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Banco%20de%20Dados/BancoDeDados.md)
 
 * Canais YouTube
 
