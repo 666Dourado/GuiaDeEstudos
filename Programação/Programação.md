@@ -25,6 +25,16 @@ Guia de Cursos Gratuitos:
 
 * [Aprenda Computação com Python’s documentation](https://aprendendo-computacao-com-python.readthedocs.io/en/latest/index.html)
 
+* [Python 3 - Gustavo Guanabara](https://www.youtube.com/watch?v=EBrZSrB8eUw&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&fbclid=IwAR2l2uMhNCOZGn3iLXg0swVXwzIQzVUwshcudACYiMlLQYoh10NAVmm0IrA)
+
+* [Python 3 na Web Com Django - Udemy Gratuito](https://www.udemy.com/course/python-3-na-web-com-django-basico-intermediario/?fbclid=IwAR2ztr3UcZwIVChMKjClRw-KMKyF0Tt2HcC8vdT6jzGOmnmwMLk0gTGwYqA)
+
+* [Python 3 - Ignorancia Zero](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe&fbclid=IwAR0XjvLQq4aAUPxl53w_fI2juwe-VM0wkl9XvBRa8jbrFwW2Rrp_j0tFHDw)
+
+* [Python para Zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc&fbclid=IwAR2QE8gGfNHCZ5CEw0u04aji9DYDoft9Nev32HGoMTFlKH2s4ux-7P7geg4)
+
+* [Curso Python 300](https://www.youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893&fbclid=IwAR1d7xXVpXAjneihPo0j3Y6e0rem9RnJo8J4Miju3Clbcuh5luK2CDhw3nA)
+
 ## C#
 
 * [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) Apostila da Caelum sobre C# Orientado a Objetos
