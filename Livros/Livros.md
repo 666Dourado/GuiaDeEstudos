@@ -6,7 +6,7 @@ Guia de Livros Gratuitos e Pagos
 
 
 
-# Livros Pagos
+## Livros Pagos
 
 * [Introdução à Mineração de Dados Com aplicações em R](https://www.amazon.com.br/gp/product/853528446X/ref=as_li_tl?ie=UTF8&tag=mineradores-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=853528446X&linkId=58d0ec345411ec471d23c642b12121fc)
 
