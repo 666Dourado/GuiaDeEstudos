@@ -23,6 +23,8 @@ Guia de Estudos sobre Ciencia de Dados
   
   * [Videos Machine Learning - ItaloJose](https://www.youtube.com/user/itinhozinho1/videos)
   
+  * [Curso Data Science com Inteligencia Artificial - IBM Brasil](https://www.youtube.com/playlist?list=PLmUyDZ7UCmuXCCXGVYPtgqOEc7nexfQKS)
+  
   
 ## Deep Learning
 
