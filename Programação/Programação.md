@@ -35,6 +35,8 @@ Guia de Cursos Gratuitos:
 
 * [Curso Python 300](https://www.youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893&fbclid=IwAR1d7xXVpXAjneihPo0j3Y6e0rem9RnJo8J4Miju3Clbcuh5luK2CDhw3nA)
 
+* [Introduction to Python - DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
 ### Cursos em Python (Em Ingles)
 
 * [Data Management and Visualization](https://pt.coursera.org/learn/data-visualization)
