@@ -128,6 +128,22 @@ Guia de Cursos Gratuitos:
 * [Julia Academy](https://juliaacademy.com/p/intro-to-julia)
 
 
+## Java
+
+* [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/)
+
+
+## Web
+
+* [Desenvolvimento Web com HTML, CSS e JavaScript - Caelum](https://www.caelum.com.br/apostila-html-css-javascript/)
+
+* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+
+
+## UX
+
+* [UX e Usabilidade aplicados em Mobile e Web](https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/)
+
 
 ## Outros
 
