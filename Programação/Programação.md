@@ -108,6 +108,8 @@ Guia de Cursos Gratuitos:
 
 * [Livro - Ciencia de Dados com R](https://cdr.ibpad.com.br/)
 
+* [Introduction to R - DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
+
 
 ## Node.js
 
