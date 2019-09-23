@@ -11,10 +11,6 @@ Guia de Cursos Gratuitos:
 
 * [Python e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-python-orientacao-objetos/) Apostila da Caelum sobre Python Orientação a Objetos
 
-* [Livro - Python Data Science Handbook (Em Ingles)](https://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook)
-
-* [Livro - Python for Data Analysis (Em Ingles)](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
-
 * [Python Fundamentos para Analise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 
 * [Python Para Desenvolvedores](https://edisciplinas.usp.br/pluginfile.php/3252265/mod_resource/content/1/b_Borges_Python_para_desenvolvedores_2ed.pdf)
@@ -103,12 +99,6 @@ Guia de Cursos Gratuitos:
 
 
 ## R
- 
-* [Livro R (Em Ingles)](https://r4ds.had.co.nz/)
-
-* [Livros de R](https://producaoanimalcomr.wordpress.com/2015/12/15/livros-r-gratuitos-para-downloads/)
-
-* [Livro - Ciencia de Dados com R](https://cdr.ibpad.com.br/)
 
 * [Introduction to R - DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
 
