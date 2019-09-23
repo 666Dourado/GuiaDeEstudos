@@ -119,6 +119,7 @@ Guia de Cursos Gratuitos:
 
 
 ## Java
+* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
 
 * [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/)
 
@@ -127,7 +128,6 @@ Guia de Cursos Gratuitos:
 
 * [Desenvolvimento Web com HTML, CSS e JavaScript - Caelum](https://www.caelum.com.br/apostila-html-css-javascript/)
 
-* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
 
 
 ## UX
