@@ -127,6 +127,15 @@ Guia de Cursos Gratuitos:
 
 * [Julia Academy](https://juliaacademy.com/p/intro-to-julia)
 
+
+
+## Outros
+
+* [Introduction to Git for Data Science - DataCamp](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+
+* [Introduction to Shell for Data Science - DataCamp](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+
+
 ## Plataformas de Ensino
 * [Hackerrank](https://www.hackerrank.com/dashboard)
 
