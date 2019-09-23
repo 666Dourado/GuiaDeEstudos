@@ -91,3 +91,5 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 * [IAExpert](https://iaexpert.com.br/)
 
 * [Deep Learning Book](http://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/)
+
+* [Sigmidal.AI](http://sigmoidal.ai/)
