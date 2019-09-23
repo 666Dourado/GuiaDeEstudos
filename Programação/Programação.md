@@ -68,7 +68,7 @@ Guia de Cursos Gratuitos:
 
 * [Packtpub](https://www.packtpub.com/)
 
-* [ClaoudML)(https://www.claoudml.com)
+* [ClaoudML](https://www.claoudml.com)
 
 ## Plataformas Diversas
 
