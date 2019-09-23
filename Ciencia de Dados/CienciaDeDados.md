@@ -22,3 +22,8 @@ Guia de Estudos sobre Ciencia de Dados
   * [Lições de Machine Learning](https://www.overleaf.com/read/ndxqdffzfwdb)
   
   * [Videos Machine Learning - ItaloJose](https://www.youtube.com/user/itinhozinho1/videos)
+  
+  
+## Deep Learning
+
+* [Curso de Deep Learning com o Keras - Codigo Logo](https://www.youtube.com/playlist?list=PL39zyvnHdXh8dWhFchbnhaQW617-LT5F-)
