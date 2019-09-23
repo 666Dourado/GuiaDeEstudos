@@ -22,6 +22,10 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Engenharia de Dados
 
+* Kaggle
+
+* Livros
+
 * [Matemática](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Matem%C3%A1tica/Matematica.md)
 
 * Nuvem
