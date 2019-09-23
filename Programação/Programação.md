@@ -35,6 +35,66 @@ Guia de Cursos Gratuitos:
 
 * [Curso Python 300](https://www.youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893&fbclid=IwAR1d7xXVpXAjneihPo0j3Y6e0rem9RnJo8J4Miju3Clbcuh5luK2CDhw3nA)
 
+### Cursos em Python (Em Ingles)
+
+* [Data Management and Visualization](https://pt.coursera.org/learn/data-visualization)
+
+* [Data Analysis Tools](https://pt.coursera.org/learn/data-analysis-tools)
+
+* [Regression Modeling in Practice](https://pt.coursera.org/learn/regression-modeling-practice)
+
+* [Machine Learning for Data Analysis](https://pt.coursera.org/learn/machine-learning-data-analysis)
+
+* [Data Analysis and Interpretation Capstone](https://pt.coursera.org/learn/data-analysis-capstone)
+
+* [Introduction to Computer Science and Programming Using Python (MIT)](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-3?fbclid=IwAR0P29jOkXKWqJtupPia7X5JKv5lBDNh7GTFXLOsIYEeAQVosgj2fz1yF9k)
+
+* [Using Python for Research (Harvard)](https://www.edx.org/c…/using-python-research-harvardx-ph526x)
+
+* [Intro to Python for Data Science](https://www.datacamp.com/c…/intro-to-python-for-data-science)
+
+* [Introdução à Ciência da Computação](https://br.udacity.com/cou…/intro-to-computer-science--cs101)
+
+* [Fundamentos da Programação com Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+* [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
+
+* [Python for Beginners with Examples](https://www.udemy.com/ardit-sulce-python-for-beginners/)
+
+* [Python for Absolute Beginners](https://www.udemy.com/python-for-absolute-beginners-u/)
+
+* [Learn Python, it's CAKE (Beginners)](https://www.udemy.com/learning-python-not-the-snake/)
+
+* [Deep Learning Prerequisites: The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/?fbclid=IwAR3kUdluhE-xsTfPqqrP-wwLCDW2Kko4x4BbYHneA1pqaySDXiSScGUq9ZI)
+
+* [Start Programming Today with Python!](https://www.udemy.com/free-python/)
+
+* [Python Object Oriented Full Guide](https://www.udemy.com/python-object-oriented-from-scratch/)
+
+* [Programming with Python: Hands-On Introduction for Beginners](https://www.udemy.com/python-programming-beginners/)
+
+* [Python from Beginner to Expert: Starter Free](https://www.udemy.com/course/python-from-beginner-to-expert-starter-free/?fbclid=IwAR03dXKsXCEGTMlGDCNDfXiu1yQgUWFdJls_tpKc4NiuxwhIoDId3iGmCaQ)
+
+* [The Top 5 Machine Learning Libraries in Python ](https://www.udemy.com/course/the-top-5-machine-learning-libraries-in-python/?fbclid=IwAR3NA2gV0wnDOfUFFERsEMM25fclrRNTcT3BPqgl2yhkyqnQy7mZY_8RybE)
+
+* [Rock Paper Scissors - Python Tutorial ](https://www.udemy.com/rock-paper-scissors-python/)
+
+* [Python Interview Questions: K1 - K10](https://www.udemy.com/python-interview-questions/)
+
+* [Interactive Programming in Python ](https://www.udemy.com/interactive-programming-in-python/)
+
+* [Python for Beginner](https://www.udemy.com/python-hackcc/)
+
+* [The Four Pillars of OOP in Python 3 for Beginners ](https://www.udemy.com/python-oops-beginners/)
+
+* [Python Programming - A Media Approach](https://www.udemy.com/python-programming-a-media-approach/)
+
+* [Practical Python - Regular Expressions With Python](https://www.udemy.com/practical-python/)
+
+* [Google's Python Class](https://developers.google.com/edu/python/)
+
+
+
 ## C#
 
 * [C# e Orientação a Objetos - Caelum](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) Apostila da Caelum sobre C# Orientado a Objetos
