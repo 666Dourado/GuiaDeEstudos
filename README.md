@@ -22,7 +22,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * Engenharia de Dados
 
-* Kaggle
+* [Kaggle](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Kaggle/Kaggle.md)
 
 * Livros
 
