@@ -4,6 +4,16 @@ Guia de Livros Gratuitos e Pagos
 
 ## Livros Gratuitos
 
+* [Livro - Python Data Science Handbook (Em Ingles)](https://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook)
+
+* [Livro - Python for Data Analysis (Em Ingles)](https://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
+
+* [Livro R (Em Ingles)](https://r4ds.had.co.nz/)
+
+* [Livros de R](https://producaoanimalcomr.wordpress.com/2015/12/15/livros-r-gratuitos-para-downloads/)
+
+* [Livro - Ciencia de Dados com R](https://cdr.ibpad.com.br/)
+
 
 
 ## Livros Pagos
