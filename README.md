@@ -20,7 +20,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * [DevOps](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/DevOps/DevOps.md)
 
-* Engenharia de Dados
+* [Engenharia de Dados](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Engenharia%20de%20Dados/EngenhariaDeDados.md)
 
 * [Kaggle](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Kaggle/Kaggle.md)
 
