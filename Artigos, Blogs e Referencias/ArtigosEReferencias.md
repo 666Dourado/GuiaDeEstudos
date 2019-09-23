@@ -63,6 +63,10 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 ## Power BI
 * [Power Bi Criando Alertas](http://www.bidoconceitoapratica.com.br/2019/08/05/power-bi-criando-alertas-parte-i/)
 
+## Algoritimos
+
+* [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
 
 # Blogs
 
