@@ -83,3 +83,5 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 * [OpenDataScience](https://opendatascience.com/)
 
 * [Jessica Temporal](https://jtemporal.com/)
+
+* [IAExpert](https://iaexpert.com.br/)
