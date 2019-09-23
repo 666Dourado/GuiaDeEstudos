@@ -6,9 +6,5 @@ Guia de Estudos sobre Banco de Dados
 * [Curso MySQL - Curso em Video](https://www.cursoemvideo.com/course/curso-banco-dados-mysql/)
 
 
-
-
-
-## Big Data
-* [Big Data Fundamentos - Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos)
-* [Big Data University - Varios Cursos](https://www.bigdatauniversity.com.br/)
+## SQL
+* [Intro to SQL for Data Science - DataCamp](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
