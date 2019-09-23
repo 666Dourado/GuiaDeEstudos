@@ -24,7 +24,7 @@ Esse é meu Guia de Estudos com materiais GRATUITOS encontrados na internet a fo
 
 * [Kaggle](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Kaggle/Kaggle.md)
 
-* Livros
+* [Livros](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Livros/Livros.md)
 
 * [Matemática](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Matem%C3%A1tica/Matematica.md)
 
