@@ -45,6 +45,14 @@ Guia de Cursos Gratuitos:
 
 * [Web Scraping com Node.js e Cheerio](https://imasters.com.br/desenvolvimento/web-scraping-com-node-js-e-cheerio)
 
+
+
+## Julia
+
+* [Julia Scientific Programming - Coursera (Em Ingles)](https://www.coursera.org/learn/julia-programming)
+
+* [Julia Academy](https://juliaacademy.com/p/intro-to-julia)
+
 ## Plataformas de Ensino
 * [Hackerrank](https://www.hackerrank.com/dashboard)
 
