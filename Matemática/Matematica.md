@@ -19,4 +19,6 @@ Guia de Estudos de Matemática
 
 * [Introdução de Álgebra Linear para Data Science](https://medium.com/data-hackers/um-pouco-de-%C3%A1lgebra-linear-para-data-science-305ad27cf7c)
 
+* [Geometria e Algebra Linear - UNIVESP](https://www.youtube.com/watch?v=9pTlp6D5MUI)
+
 * [Um Curso de Geometria e Algebra Linear](http://midia.cmais.com.br/assets/file/original/d6462384c6491d7538a1dd63a0086270903b9ad4.pdf)
