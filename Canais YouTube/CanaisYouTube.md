@@ -16,3 +16,5 @@ Guia de Canais do You Tube com conteudo relevante
 * [Karine Lago](https://www.youtube.com/channel/UCsx_ZsgsX6BIFueejCDBLkg)
 
 * [Planilheiros](https://www.youtube.com/channel/UCusu-y_cy_0fXxOwCTmELqw/videos)
+
+* [Codigo Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg/playlists)
