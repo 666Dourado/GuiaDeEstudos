@@ -35,6 +35,8 @@ Guia de Cursos Gratuitos:
 
 ### Cursos em Python (Em Ingles)
 
+* [Python for Beginners - Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
 * [Data Management and Visualization](https://pt.coursera.org/learn/data-visualization)
 
 * [Data Analysis Tools](https://pt.coursera.org/learn/data-analysis-tools)
