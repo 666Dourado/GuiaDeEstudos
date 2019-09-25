@@ -1,8 +1,12 @@
-# Visualização
-Guia de pacotes de referencia em visualizações
+# Engenharia da Computação
+Guia de cursos e referencias para Engenharia da Computação
 
-* [Dataviz Project](https://datavizproject.com) Dataviz Project é uma iniciativa que apresenta diversas referencias de data visualização
+* [Sistemas Operacionais](https://www.youtube.com/playlist?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw)
 
-* [Analytics Storytelling for Impact - Microsoft (Em Ingles)](https://www.edx.org/course/analytics-storytelling-for-impact-3) Curso da EDX/Microsoft sobre Data Storyteling.
+* [Engenharia de Software](https://www.youtube.com/playlist?list=PLxI8Can9yAHfeoA_yMm9iKJVxQprljmL9)
 
-* [Fundamentals of Data Visualization (Em Ingles)](https://serialmentor.com/dataviz/)
+* [Projeto e Analise de Algoritmos](https://www.youtube.com/playlist?list=PLxI8Can9yAHdNN5fpKWRF8bbLG-2P-0LW)
+
+* [Gerencia e Qualidade de Software](https://www.youtube.com/watch?v=Rr89ePGLAmI&list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC&index=1)
+
+* [Sistemas Distribuidos](https://www.youtube.com/playlist?list=PLxI8Can9yAHdAU8zIvJTKcbhgRyzwjII2)
