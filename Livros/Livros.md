@@ -14,6 +14,7 @@ Guia de Livros Gratuitos e Pagos
 
 * [Livro - Ciencia de Dados com R](https://cdr.ibpad.com.br/)
 
+* [Programming Notes for Professionals books](https://goalkicker.com)
 
 
 ## Livros Pagos
