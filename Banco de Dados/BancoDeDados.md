@@ -1,6 +1,8 @@
 # Banco de Dados
 Guia de Estudos sobre Banco de Dados
 
+* [Banco de Dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq)
+
 ## My SQL
 
 * [Curso MySQL - Curso em Video](https://www.cursoemvideo.com/course/curso-banco-dados-mysql/)
