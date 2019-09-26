@@ -18,3 +18,5 @@ Guia de Canais do You Tube com conteudo relevante
 * [Planilheiros](https://www.youtube.com/channel/UCusu-y_cy_0fXxOwCTmELqw/videos)
 
 * [Codigo Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg/playlists) Canal com diversos tutoriais de linguagens como C#. Python. 
+
+* [Geocast ](https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ/videos) Canal que debate questões que envolvem a ciência geoespacial.
