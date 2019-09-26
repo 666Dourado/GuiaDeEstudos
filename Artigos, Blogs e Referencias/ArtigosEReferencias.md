@@ -94,6 +94,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Sigmidal.AI](http://sigmoidal.ai/)
 
+* [DataHackers](https://datahackers.com.br/blog)
+
 * [Pylaadies BH](https://medium.com/pyladiesbh)
 
 * [Rladies BH ](https://medium.com/rladiesbh)
