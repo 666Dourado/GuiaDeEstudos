@@ -20,3 +20,5 @@ Guia de Canais do You Tube com conteudo relevante
 * [Codigo Logo](https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg/playlists) Canal com diversos tutoriais de linguagens como C#. Python. 
 
 * [Geocast ](https://www.youtube.com/channel/UCLAeX4dyujMoy4xqHvxSDpQ/videos) Canal que debate questões que envolvem a ciência geoespacial. [Gitlab Geocast](https://gitlab.com/geocastbrasil/livepyqgis)
+
+* [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo/videos) Otimas live de Python
