@@ -16,6 +16,8 @@ Guia de Livros Gratuitos e Pagos
 
 * [Programming Notes for Professionals books](https://goalkicker.com)
 
+* [Efficient R programming](https://csgillespie.github.io/efficientR/)
+
 
 ## Livros Pagos
 
