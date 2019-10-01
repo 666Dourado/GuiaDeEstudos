@@ -163,6 +163,10 @@ Guia de Cursos Gratuitos:
 
 * [Digital One](https://digitalinnovation.one) Cursos de Python, Front End, Back End, Full Stack
 
+* [Brasil Mais Digital](http://www.brasilmaisdigital.org.br) Diversos Cursos de TI com certificado
+
+* [Fundação Bradesco](https://www.ev.org.br/) Diversos Cursos de TI com certificado
+
 ## Plataformas Diversas
 
 * [Mailjet - Envio de Email](https://www.mailjet.com/)
