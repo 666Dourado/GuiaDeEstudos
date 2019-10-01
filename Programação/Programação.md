@@ -161,6 +161,8 @@ Guia de Cursos Gratuitos:
 
 * [ClaoudML](https://www.claoudml.com)
 
+* [Digital One](https://digitalinnovation.one) Cursos de Python, Front End, Back End, Full Stack
+
 ## Plataformas Diversas
 
 * [Mailjet - Envio de Email](https://www.mailjet.com/)
