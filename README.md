@@ -29,8 +29,6 @@ Esse é meu guia de estudos com materiais GRATUITOS encontrados na internet a fo
 * [Livros](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Livros/Livros.md)
 
 * [Matemática](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Matem%C3%A1tica/Matematica.md)
-
-* Nuvem
  
 * [Podcast](https://github.com/rafaelrd-dev/GuiaDeEstudos/blob/master/Podcast/Podcast.md)
 
