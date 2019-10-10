@@ -30,6 +30,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Flask, Python, PostgreSQL e Heroku (Em Ingles)](https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc)
 
+* [Python Funcional - Dunossauro](https://github.com/dunossauro/python-funcional/)
+
 ## R
 * [Azure Machine Learning com R - Leandro Karpinski](https://www.linkedin.com/pulse/colocando-o-r-para-trabalhar-azure-machine-learning-e-karpinski/)
 
