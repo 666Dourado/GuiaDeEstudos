@@ -30,7 +30,9 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Flask, Python, PostgreSQL e Heroku (Em Ingles)](https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc)
 
-* [Python Funcional - Dunossauro](https://github.com/dunossauro/python-funcional/)
+* [Python Funcional - Dunossauro](https://github.com/dunossauro/python-funcional/) - Esse markdown do github do Dunossauro é basicamente um livro sobre Python como linguagem Funcional
+
+* [Tutorial Python Dash](https://www.datacamp.com/community/tutorials/learn-build-dash-python) - Turorial da hora sobre o uso do Python em Dash que é criar uma interface web usando Flask
 
 ## R
 * [Azure Machine Learning com R - Leandro Karpinski](https://www.linkedin.com/pulse/colocando-o-r-para-trabalhar-azure-machine-learning-e-karpinski/)
@@ -72,6 +74,10 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 ## Algoritimos
 
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
+## Geocoding
+
+* [API Nominatim](https://nominatim.org/release-docs/develop/api/Search/) - API free sobre geocoding, o Nominatim é uma iniciativa da Open Street Maps que disponibiliza de forma gratuita dados de geolocalização
 
 
 # Blogs
