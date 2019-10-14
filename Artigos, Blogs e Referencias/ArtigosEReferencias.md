@@ -34,6 +34,8 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Tutorial Python Dash](https://www.datacamp.com/community/tutorials/learn-build-dash-python) - Turorial da hora sobre o uso do Python em Dash que é criar uma interface web usando Flask
 
+* [Deploy a machine learning model using flask](https://towardsdatascience.com/deploy-a-machine-learning-model-using-flask-da580f84e60c) - Disponibilizar um modelo de Machine Learning numa API em Flask.
+
 ## R
 * [Azure Machine Learning com R - Leandro Karpinski](https://www.linkedin.com/pulse/colocando-o-r-para-trabalhar-azure-machine-learning-e-karpinski/)
 
