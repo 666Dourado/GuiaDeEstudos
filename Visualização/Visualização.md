@@ -6,3 +6,8 @@ Guia de pacotes de referencia em visualizações
 * [Analytics Storytelling for Impact - Microsoft (Em Ingles)](https://www.edx.org/course/analytics-storytelling-for-impact-3) Curso da EDX/Microsoft sobre Data Storyteling.
 
 * [Fundamentals of Data Visualization (Em Ingles)](https://serialmentor.com/dataviz/)
+
+
+* [Kibana - Elasticsearch](https://www.elastic.co/pt/products/kibana) - Plugin free do Elasticsearch para visualição de dados, se parece em muitas aspas com o Grafana
+
+* [Grafana](https://grafana.com/)
