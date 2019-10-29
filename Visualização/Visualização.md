@@ -10,4 +10,6 @@ Guia de pacotes de referencia em visualizações
 
 * [Kibana - Elasticsearch](https://www.elastic.co/pt/products/kibana) - Plugin free do Elasticsearch para visualição de dados, se parece em muitas aspas com o Grafana
 
-* [Grafana](https://grafana.com/)
+* [Grafana](https://grafana.com/) - Visualização de dados principalmente voltado a dashboard de monitoramento de eventos de sysadim / devops
+
+* [Colorhunt](https://colorhunt.co/) - Paleta de cores para graficos.
