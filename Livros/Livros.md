@@ -18,6 +18,8 @@ Guia de Livros Gratuitos e Pagos
 
 * [Efficient R programming](https://csgillespie.github.io/efficientR/)
 
+* [Kafka Confluent](https://cdn.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf?_ga=2.26521661.1070029998.1572350415-660046034.1572350415)
+
 
 ## Livros Pagos
 
