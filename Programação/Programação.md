@@ -169,4 +169,6 @@ Guia de Cursos Gratuitos:
 
 ## Plataformas Diversas
 
-* [Mailjet - Envio de Email](https://www.mailjet.com/)
+* [Mailjet - Envio de Email](https://www.mailjet.com/) - Envio de e-mail
+
+* [Openweathermap](https://openweathermap.org/) - API de clima
