@@ -25,6 +25,8 @@ Guia de Estudos sobre Ciencia de Dados
   
   * [Curso Data Science com Inteligencia Artificial - IBM Brasil](https://www.youtube.com/playlist?list=PLmUyDZ7UCmuXCCXGVYPtgqOEc7nexfQKS)
   
+  * [Video Aulas Mario Filho](http://mariofilho.com/video-aula-tutorial-de-machine-learning-para-iniciantes/)
+  
   
 ## Deep Learning
 
