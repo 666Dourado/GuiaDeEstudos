@@ -15,3 +15,5 @@ Guia de referencias de Dados Abertos
 ## Datasets Machine Learning
 
 * [Dataset Iris](https://archive.ics.uci.edu/ml/datasets/iris)
+
+* [Sklearn Datasets](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
