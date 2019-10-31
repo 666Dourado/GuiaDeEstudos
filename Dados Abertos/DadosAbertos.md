@@ -10,3 +10,8 @@ Guia de referencias de Dados Abertos
 ## Kaggle
 
 * [Telecom Churn Prediction](https://www.kaggle.com/ashydv/telecom-churn-prediction-logistic-regression)
+
+
+## Datasets Machine Learning
+
+* [Dataset Iris](https://archive.ics.uci.edu/ml/datasets/iris)
