@@ -13,6 +13,8 @@ Guia de referencias de Dados Abertos
 
 * [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon)
 
+* [Google Play Dataset](https://www.kaggle.com/lava18/google-play-store-apps)
+
 
 ## Datasets Machine Learning
 
