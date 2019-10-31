@@ -11,6 +11,8 @@ Guia de referencias de Dados Abertos
 
 * [Telecom Churn Prediction](https://www.kaggle.com/ashydv/telecom-churn-prediction-logistic-regression)
 
+* [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon)
+
 
 ## Datasets Machine Learning
 
