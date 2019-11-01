@@ -69,7 +69,11 @@ Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-conten
 
 * [Primeiros Passo com Apache Airflow](https://medium.com/data-hackers/primeiros-passos-com-o-apache-airflow-etl-f%C3%A1cil-robusto-e-de-baixo-custo-f80db989edae)
 
+* [Entendendo o Apache Kafka](https://medium.com/luizalabs/entendendo-o-apache-kafka-i-27342ec9e29)
 
+* [Entendendo as funções Map, Filter e Reduce](https://medium.com/luizalabs/entendendo-as-fun%C3%A7%C3%B5es-map-filter-e-reduce-2569888ae084)
+
+* [Apache Kafka na Pratica](https://medium.com/trainingcenter/apache-kafka-codifica%C3%A7%C3%A3o-na-pratica-9c6a4142a08f)
 
 ## MongoDB
 
